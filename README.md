@@ -13,7 +13,7 @@ Una persona responsable y con iniciativa y con sólida formación en desarrollo 
 
 <br>
 
-[![@ligiaEnciso](https://img.icons8.com/fluency/48/000000/linkedin.png "@ligiaEnciso")](www.linkedin.com/in/ligia-enciso-604541245) [![@ligiaEnciso@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "ligifel@gmail.com")](ligifel@gmail.com)
+[![@ligiaEnciso](https://img.icons8.com/fluency/48/000000/linkedin.png "@ligiaEnciso")](www.linkedin.com/in/ligia-enciso) [![@ligiaEnciso@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "ligifel@gmail.com")](ligifel@gmail.com)
 
 <br>
 

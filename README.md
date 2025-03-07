@@ -12,10 +12,15 @@ Una persona responsable y con iniciativa y con sólida formación en desarrollo 
 ## 📫 Conéctate conmigo: ☕ :
 
 <br>
+<p>
+<a href="mailto:ligifel@gmail.com" target="_blank">
+    <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png" width="50" height="50"/>     
+</a>&nbsp;&nbsp;
 
-[![@ligiaEnciso](https://img.icons8.com/fluency/48/000000/linkedin.png "@ligiaEnciso")](www.linkedin.com/in/ligia-enciso) [![@ligiaEnciso@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "ligifel@gmail.com")](ligifel@gmail.com)
-
-<br>
+  <a  href="https://www.linkedin.com/in/ligia-enciso"  target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />         
+ </a>&nbsp;&nbsp;
+</p>
 
 ## 🛠  Herramientas y Tecnologías 💡 :
 <p  >
